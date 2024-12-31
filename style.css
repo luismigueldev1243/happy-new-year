@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    
+    font-size: 20px;
+}
+#time-real{
+    font-size: 35px;
+    height: 35px;
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+}
+#time{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+div{
+    display: block;
+   
+}
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IE+Guides&display=swap');
+#hny{
+    text-decoration:underline solid red;
+    font-family: "Roboto Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 43px;
+}
